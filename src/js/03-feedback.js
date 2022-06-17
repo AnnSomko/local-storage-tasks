@@ -26,7 +26,7 @@ function onFormInput(e) {
 
 function formOutput(e) {
   const data = localStorage.getItem(STORAGE_KEY);
-  if (data) {
-    JSON.parse(formData) = data;
-  }
+    if (data) {
+      JSON.parse(formData) = data;
+    }
 }
