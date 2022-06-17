@@ -1,4 +1,5 @@
 import { galleryItems } from './gallery-items.js';
+import '../css/01-gallery.css';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
