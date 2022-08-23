@@ -1,4 +1,4 @@
-https://annsomko.github.io/goit-js-hw-08/
+https://annsomko.github.io/local-storage-tasks/
 
 There are 3 tasks:
 #1 image gallery - realized with SimpleLightBox library.
