@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "http://annsomko.github.io/goit-js-hw-08/",
+  "homepage": "https://annsomko.github.io/local-storage-tasks/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /local-storage-tasks/"
   },
   "repository": {
     "type": "git",
